@@ -1,4 +1,4 @@
-- Check if the Ubuntu machine is able to ping the DC server  :  
+Check if the Ubuntu machine is able to ping the DC server  :  
     nslookup [bridge-delivery.com](http://bridge-delivery.com)
     
 - Set the hostname for the machine  
