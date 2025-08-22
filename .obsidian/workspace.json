@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4f17bc501cb2f6bb",
+        "id": "04aaf2a1f431ebff",
         "type": "tabs",
         "children": [
           {
-            "id": "f93e6cb9cac16891",
+            "id": "b262dbdf9251a18c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "domain joining ubuntu.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250822102121.png"
               },
-              "icon": "lucide-file",
-              "title": "domain joining ubuntu"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250822102121"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "###",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406.5
   },
   "right": {
     "id": "763857c79cac96e1",
@@ -166,21 +164,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f93e6cb9cac16891",
+  "active": "6df195373c4029d5",
   "lastOpenFiles": [
-    "obsidian",
-    "git lab task.md",
-    "AWS cloud task.md",
     "windows domain joining.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Pasted image 20250822102121.png",
+    "Pasted image 20250822102642.png",
+    "Pasted image 20250822102428.png",
+    "it onboarding checklist for new user.md",
+    "git lab task.md",
     "domain joining ubuntu.md",
     "client configuration for ubuntu.md",
+    "client configuring for mac.md",
+    "AWS cloud task.md",
+    "obsidian",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "it onboarding checklist for new user.md",
     "2025-08-01.md",
     "client configuring for ubuntu.md",
     "domain joining for linux.md",
-    "client configuring for mac.md",
     "Welcome.md"
   ]
 }
