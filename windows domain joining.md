@@ -2,7 +2,9 @@
 
 2.  Backup bookmarks if sync not enabled  
   
-3.Ask user if they have sticky notes in use(hard to copy the sticky notes data..either we have to manually copy and save as notepad)  
+	3..Ask user if they have sticky notes in use(hard to copy the sticky notes data..either we have to manually copy and save as notepad)  
+
+
   
 
 4. Run lusrmgr.msc -> Add administrator password (Bridge@2025#) and enable admin account
